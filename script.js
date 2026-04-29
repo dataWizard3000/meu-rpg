@@ -3,7 +3,7 @@
 
 const readline = require('readline-sync');
 
-// --- BANCO DE DADOS DE PERSONAGENS (50) ---
+// --- BANCO DE DADOS DE PERSONAGENS (35) ---
 const personagens = [
   { id: 1, Nome: 'Alaric, o Justo', vida: 120, poder: 'Escudo de Fé', DanoPorAtaque: 15},
   { id: 2, Nome: 'Beatrix de Astora', vida: 100, poder: 'Estocada Veloz', DanoPorAtaque: 18 },
